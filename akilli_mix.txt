@@ -1,0 +1,30 @@
+Adı: Gül ki sevgilim, Sanatçı: Oguzhan Koç, Türü: pop
+Adı: Counting stars, Sanatçı: OneRepublic, Türü: yabancı
+Adı: Yalnız değilsin, Sanatçı: Ali Kınık, Türü: türkü
+Adı: Hep de yorgun, Sanatçı: Adamlar, Türü: pop
+Adı: Lakin, Sanatçı: Sufle, Türü: pop
+Adı: Pus, Sanatçı: Sufle, Türü: pop
+Adı: Uyu, Sanatçı: Stabil, Türü: rep
+Adı: Ölürüm hasretinle, Sanatçı: Seksendört, Türü: pop
+Adı: Sevme Zamanı, Sanatçı: Oya & Bora, Türü: pop
+Adı: Neden olmasın?, Sanatçı: Skapova, Türü: pop
+Adı: Affetmem, Sanatçı: Sena Şener, Türü: pop
+Adı: Müzik kutusu, Sanatçı: Emircan iğrek, Türü: pop
+Adı: Bak bana, Sanatçı: Sena Şener, Türü: pop
+Adı: Bir de bana sor, Sanatçı: Erol Evgin, Türü: pop
+Adı: Quedate Luna, Sanatçı: Natalia Doco, Türü: yabancı
+Adı: Türkiyem, Sanatçı: Mustafa Yıldızdoğan, Türü: türkü
+Adı: Bi seni konuşurum, Sanatçı: Göksel, Türü: pop
+Adı: Lavanta, Sanatçı: Stabil, Türü: rep
+Adı: Fısıltı, Sanatçı: Hemsaye, Türü: pop
+Adı: Yağmurlar, Sanatçı: Anıl Piyancı  Perdenin Ardındakiler, Türü: pop
+Adı: Lost on you, Sanatçı: LP, Türü: yabancı
+Adı: Diamonds, Sanatçı: Rihanna, Türü: yabancı
+Adı: Son arzum, Sanatçı: Skapova, Türü: pop
+Adı: Mesele, Sanatçı: Stabil, Türü: rep
+Adı: Ay tenli kadın, Sanatçı: Ufuk Beydemir, Türü: pop
+Adı: Altaylardan Tunaya, Sanatçı: İttihat ve Terakki Müzikleri, Türü: Türkü
+Adı: Allı Turnam, Sanatçı: Musa Eroğlu, Türü: Türkü
+Adı: Yalan, Sanatçı: Ali Atay, Türü: pop
+Adı: Yokluğunda, Sanatçı: Ali Atay, Türü: pop 
+Adı: Kim bilir, Sanatçı: Hemsaye, Türü: pop
